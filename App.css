@@ -1,0 +1,8 @@
+.card-body-stars {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card-body-stars li {
+    display: inline-block;
+  }
